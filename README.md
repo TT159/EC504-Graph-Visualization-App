@@ -1,5 +1,6 @@
 # EC 504 Data Structure - Graph Algorithm
 
-## Dijkstra Algorithm
+### Dijkstra Algorithm
+**link**: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 
-[在线算法 DEMO](http://www.luobotang.cn/graph/app/graph_dijkstra.html)
+
